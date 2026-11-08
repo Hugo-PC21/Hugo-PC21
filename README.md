@@ -42,7 +42,7 @@ Atualmente, estou a aprofundar os meus conhecimentos de backend e a evoluir atra
 
 Estou disponível para conversar sobre oportunidades freelance, colaborações e projetos onde possa contribuir com desenvolvimento frontend e pensamento de produto.
 
-- **GitHub:** [@Hugo-JC](https://github.com/Hugo-PC21)
+- **GitHub:** [@Hugo-PC21](https://github.com/Hugo-PC21)
 - **Repositórios:** [Explorar os meus projetos](https://github.com/Hugo-PC21?tab=repositories)
 
 ---
